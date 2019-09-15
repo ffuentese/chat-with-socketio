@@ -18,9 +18,9 @@ Para hacerlo funcionar es necesario:
 - Crear un archivo local llamado credentials.js que contenga la url de conexión. 
 
 	module.exports = {
-		MONGOURL: 'mongodb+srv://<db_name>:<password>@chat-qypoo.gcp.mongodb.net/test?retryWrites=true&w=majority'
+		MONGOURL: 'mongodb+srv://[base]:[contrasena]@chat-qypoo.gcp.mongodb.net/test?retryWrites=true&w=majority'
 	};
 
-donde reemplazan los dos campos entre <> con la base de datos y la contraseña. 
+donde reemplazan los dos campos con la base de datos y la contraseña (sin los corchetes). 
 
 [Una demo](https://chat-socketio-example.herokuapp.com/)
