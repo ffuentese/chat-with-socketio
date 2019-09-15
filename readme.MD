@@ -22,3 +22,5 @@ Para hacerlo funcionar es necesario:
 	};
 
 donde reemplazan los dos campos entre <> con la base de datos y la contraseña. 
+
+[Una demo](https://chat-socketio-example.herokuapp.com/)
