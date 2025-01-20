@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"private": "true",
 	"dependencies": {
-		"express": "4.17.3",
+		"express": "4.20.0",
 		"mongoose": "^5.13.20",
 		"socket.io": "2.4.0"
 	}
