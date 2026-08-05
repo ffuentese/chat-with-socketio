@@ -4,7 +4,7 @@
 	"private": "true",
 	"dependencies": {
 		"express": "4.22.1",
-		"mongoose": "^6.13.9",
+		"mongoose": "^6.13.10",
 		"socket.io": "4.8.1"
 	}
 }
